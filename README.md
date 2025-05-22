@@ -73,13 +73,4 @@
 **A**ction: I double-checked requirements, verified the file, and submitted ahead of time.  
 **R**esult: The submission was successful and acknowledged via email.
 
----
-
-## 📚 References
-- Cape Peninsula University of Technology Career Centre  
-- https://www.16personalities.com/  
-- https://www.mynextmove.org/  
-- CPUT CV Writing Guide  
-
----
 
