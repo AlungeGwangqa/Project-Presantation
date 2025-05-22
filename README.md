@@ -66,9 +66,7 @@
 ## ✅ 5. CV Submission Confirmation
 
 ### ✅ Evidence
-- Submitted CV via CPUT Blackboard on 20 May 2025.
-- Confirmation email screenshot saved.
-
+[My CV (pdf)](https://github.com/AlungeGwangqa/Project-Presantation/blob/main/CURRICULUM%2BVITAE%2BOF%2BALUNGE.pdf)
 ### 🌟 STAR Reflection
 **S**ituation: Submitting important documents during deadlines can be stressful.  
 **T**ask: To ensure timely and correct submission of my CV.  
